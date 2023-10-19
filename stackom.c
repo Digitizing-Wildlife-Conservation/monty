@@ -1,6 +1,6 @@
 /*
  * File: stackom.c
- * Auth: Brian 
+ * Auth: Brian
  *       Muchai
  */
 

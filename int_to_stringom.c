@@ -1,6 +1,6 @@
 /*
  * File: int_to_stringom.c
- * Auth: Odenyi Muchai 
+ * Auth: Odenyi Muchai
  */
 
 #include <stdlib.h>
